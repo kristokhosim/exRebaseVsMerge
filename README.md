@@ -1,1 +1,2 @@
 # exRebaseVsMerge
+conflict
